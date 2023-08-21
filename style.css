@@ -1,0 +1,21 @@
+h1{
+    font-size:50px;
+    width:100%;
+    color: brown;
+}
+p{
+    font-size: 30px;
+    text-align:justify;
+    text-decoration: none;
+    text-decoration-style:solid;
+    text-decoration-color:beige;
+    text-transform: capitalize;
+    line-height: 1.5;
+    font-weight:10;
+    color:darkslategray;
+}
+a{
+    font-size:50px;
+    color: cornflowerblue;
+     
+}
